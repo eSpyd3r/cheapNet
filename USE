@@ -1,0 +1,10 @@
+Hello love,
+
+Scraper V1 which is the first one in the files uses an "abnormal" way of scraping. It's through an API. Additionally,
+it only "gets" the first 20 results.
+
+Scraper V2 is the conventional method; however, it only reaches 5 results for now. The good thing about V2 is that it
+can expand way beyond 20 results but requires a lot more code and "user" input (this is a Selenium necessity as websites
+have shit like "do you want cookies" which complicates scraping and requires us to input that we don't want the cookies
+before being able to access the data). V2 HAS FUNCTIONALITY ISSUES
+
